@@ -5,3 +5,5 @@ Plan to push to GitHub in a couple stages, check my understanding of some Git sy
 Making a change here. 
 
 This change is part of the "new feature" branch.
+
+This change is being made on GitHub, still in the "new feature" branch.
